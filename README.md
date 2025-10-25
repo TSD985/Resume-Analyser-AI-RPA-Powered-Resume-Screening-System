@@ -19,7 +19,7 @@ The system automatically extracts **candidate details** such as name and email f
 
 #### (4) Automated Communication
 - **Suitable/Borderline candidates:** Automatically forwarded to interviewers.  
-- **Not Suitable candidates:** Receive a courteous rejection email.  
+- **Not Suitable candidates:** Ignored.  
 
 This ensures **consistency, transparency,** and improved **candidate engagement**.
 
