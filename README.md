@@ -58,6 +58,4 @@ By building **IntelliScreen 1.0**, you’ll gain hands-on experience with:
 - Integrating **email, PDF, and data handling** in a single automation pipeline.  
 - Applying **RPA and AI** principles to real-world HR and business use cases.  
 
----
 
-⭐ *If you like this project, consider giving it a star on GitHub!*
