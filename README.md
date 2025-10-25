@@ -1,4 +1,4 @@
-## 🤖 IntelliScreen 1.0 – AI + RPA Powered Resume Screening System
+## 🤖 Resume Analyser – AI + RPA Powered Resume Screening System
 
 ### 📘 Overview
 **IntelliScreen 1.0** is an **AI + RPA-powered resume screening automation system** built using **UiPath Studio Web**.  
